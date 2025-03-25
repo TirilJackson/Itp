@@ -12,6 +12,6 @@ I got an answer saying I needed to load three separate sounds and allow for thei
 Chat gpt gave me a modifyed verison of the code. 
 I uploaded my 3 sounds and copied the code given from chat gpt in to the coding sight 
 it worked 
-<iframe src="https://editor.p5js.org/TirilJackson/full/1-hG5Wu0T7"></iframe>
+<https://editor.p5js.org/TirilJackson/sketches/1-hG5Wu0T7> 
 /Users/tiriljackson/Desktop/Screenshot 2025-03-25 at 6.09.32 AM.png
 /Users/tiriljackson/Desktop/Screenshot 2025-03-25 at 6.09.39 AM.png
