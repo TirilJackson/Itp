@@ -1,0 +1,15 @@
+# H1 Midterm Project 
+05fuctions codealong 
+Found 3 wavefiles that I could use for the project 
+opend up the p5js editor in google 
+signed in using my user name 
+set up the mic set up using the codealong 
+Tried out the code with only one sound. 
+Tried modifying the code to work for 3 sounds. Repeated the code from 30-39 for each sound. 
+It did not work.
+Asked Chat Gpt for how I can modify this code for 3 sounds 
+I got an answer saying I needed to load three separate sounds and allow for their playback with different triggers or controls. 
+Chat gpt gave me a modifyed verison of the code. 
+I uploaded my 3 sounds and copied the code given from chat gpt in to the coding sight 
+it worked 
+<iframe src="https://editor.p5js.org/TirilJackson/full/1-hG5Wu0T7"></iframe>
