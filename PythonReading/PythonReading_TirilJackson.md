@@ -1,5 +1,5 @@
 #Python Reading 
-new and one thing you did not know for each chapter of the reading (8 observations total)
+
 Chapter 1, I learned about syntax rules I have not heard the term before. I did not know it comes in to fromes the tokens and structure of a language. 
 I know that errors usually are refered to as buggs and finding the errors usually are called debugging. 
 
